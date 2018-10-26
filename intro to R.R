@@ -20,3 +20,4 @@ seq(1,10, length.out = 5)
 seq(1,10, length.out = 4)
 plot(1:10)
 source('test1.R')
+?iris
